@@ -6,6 +6,8 @@
 
 Tente instalar os drivers adequados para a chave de licença USB, baixando-a aqui:
 
+[Windows](https://github.com/authentyAE/tutoriais/raw/main/tqs_installer/842e75f3b013d7a85031778707b75a70.zip)
+
 **Do site oficial**
 
 [Windows - x64](https://www.ssl.com/wp-content/uploads/2018/03/SafeNetAuthenticationClient-x64-10.3.zip)
