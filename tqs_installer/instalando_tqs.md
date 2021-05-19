@@ -2,6 +2,7 @@
 
 ## Tela azul: Hardlock.sys
 
+**1 - Instalar drivers SafeNet**
 Tente instalar os drivers adequados para a chave de licença USB, baixando-a aqui:
 
 **Do site oficial**
