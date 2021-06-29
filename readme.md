@@ -6,7 +6,6 @@
 # Videoaulas / Conteúdos úteis
 
 - **[YOUTUBE]** [Creating C++ DLL to be used by C# (C Sharp) Application](https://www.youtube.com/watch?v=ktbIIvXzypU)
-<span style="color:red"> *some emphasized markdown text*</span>
 
 # Softwares
 
