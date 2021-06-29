@@ -3,6 +3,10 @@
 - [Criar DLLs C/C++ no Visual Studio](https://docs.microsoft.com/pt-br/cpp/build/dlls-in-visual-cpp?view=msvc-160)
 - [Walkthrough: criar e usar sua própria biblioteca de vínculo dinâmico (C++)](https://docs.microsoft.com/pt-br/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=msvc-160)
 
+# Videoaulas / Conteúdos úteis
+
+- '[YOUTUBE]' [Creating C++ DLL to be used by C# (C Sharp) Application](https://www.youtube.com/watch?v=ktbIIvXzypU)
+
 # Softwares
 
 ## Repositórios úteis
