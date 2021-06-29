@@ -5,4 +5,5 @@
 
 
 # Programas úteis
+- [ILSPy](https://github.com/icsharpcode/ILSpy/releases) - Descompilador .NET
 - [dotPeek](https://www.jetbrains.com/pt-br/decompiler/) - Descompilador .NET
