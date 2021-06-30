@@ -17,10 +17,11 @@
 # Softwares
 
 ## Repositórios úteis
-- **(4) {T}** [Live-Charts](https://github.com/Live-Charts/Live-Charts) - Criação de gráficos avançados.
-- **(4) {T}** [DXF Reader / Writer](https://github.com/haplokuon/netDxf) - Leitor e gravador de arquivos DXF
-- **(5) {T}** [ILSPy](https://github.com/icsharpcode/ILSpy.git) - Descompilador .NET
-
+- **(4) {T} [GITHUB]** [Live-Charts](https://github.com/Live-Charts/Live-Charts) - Criação de gráficos avançados.
+- **(4) {T} [GITHUB]** [DXF Reader / Writer](https://github.com/haplokuon/netDxf) - Leitor e gravador de arquivos DXF
+- **(5) {T} [GITHUB]** [ILSPy](https://github.com/icsharpcode/ILSpy.git) - Descompilador .NET
+- **(?) {?} [ZEDWOOD]** [C++ md5 function](http://www.zedwood.com/article/cpp-md5-function) - Calculas Hash MD5 para strings
+- **(?) {?} [EXAMPLE-CODE]** [Md5 checksum of file](https://www.example-code.com/cpp/crypt2_md5_hash_file.asp) - Calcular Hash MD5 de arquivos
 
 ## Programas úteis
 - [ILSPy](https://github.com/icsharpcode/ILSpy/releases) - Descompilador .NET
