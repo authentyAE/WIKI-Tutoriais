@@ -28,6 +28,10 @@
 - [dotPeek](https://www.jetbrains.com/pt-br/decompiler/) - Descompilador .NET
 
 # LEGENDA
+
 [FONTE]
+
 (N) - Escala de utilidade, de 1 a 5.
+
 {X} - T: Testado, funcional | F: Testado, não funciona.
+
