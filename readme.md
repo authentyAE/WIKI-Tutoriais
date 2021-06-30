@@ -29,7 +29,7 @@
 
 # LEGENDA
 
-[FONTE]
+[FONTE] - Especifica a fonte do conteúdo
 
 (N) - Escala de utilidade, de 1 a 5.
 
