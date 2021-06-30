@@ -9,6 +9,7 @@
 # Videoaulas / Conteúdos úteis
 
 - **[YOUTUBE]** [Creating C++ DLL to be used by C# (C Sharp) Application](https://www.youtube.com/watch?v=ktbIIvXzypU)
+- **[YOUTUBE]** [Criação de DLL C#](https://www.youtube.com/watch?v=seXSM-LrKcI)
 
 # Softwares
 
