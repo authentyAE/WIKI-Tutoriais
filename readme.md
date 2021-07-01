@@ -10,6 +10,7 @@
 - **(3)** [Criar bibliotecas DLL no windows (usando ferramentas do Visual Studio)](https://medium.com/ai-innovation/how-to-create-c-c-dynamic-link-libraries-in-windows-28abefc988c9)
 - **(1)** [Marshaling de dados com invocação de plataforma](https://docs.microsoft.com/pt-br/dotnet/framework/interop/marshaling-data-with-platform-invoke) - Usando DLL C++ no C# (Útil: tabela de conversão **C++** <-> **C#**)
 - **(1)** [Especificando um ponto de entrada](https://docs.microsoft.com/pt-br/dotnet/framework/interop/specifying-an-entry-point)
+- **(?)** [Buils a DLL with Cygwin](https://cygwin.com/cygwin-ug-net/dll.html)
 
 # Videoaulas / Conteúdos úteis
 
