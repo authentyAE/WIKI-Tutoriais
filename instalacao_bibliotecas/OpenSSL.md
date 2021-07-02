@@ -27,5 +27,5 @@ Para instalar com um local diferente de `C:\Program Files (x86)\OpenSSL` ou uma 
   - > `nmake`
   - > `nmake test`
   - > `nmake install`
-  - COMANDO COMPLETO: `C:\"Program Files (x86)"\"Microsoft Visual Studio"\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat x86 && perl Configure VC-WIN32 && nmake && nmake test && nmake install`
+  - **COMANDO COMPLETO**: `C:\"Program Files (x86)"\"Microsoft Visual Studio"\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat x86 && perl Configure VC-WIN32 && nmake && nmake test && nmake install`
   - Adicionar a OpenSSL no PATH do sistema.
