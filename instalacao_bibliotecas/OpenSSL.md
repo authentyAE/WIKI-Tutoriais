@@ -20,7 +20,7 @@ O passo a passo completo pode ser visto abaixo:
   - Download: [OpenSSL - Repositório GitHub](https://github.com/openssl/openssl.git)
 - Abrir terminal do compilador:
   - Terminal -> Novo Terminal
-- Executar ferramenta VCVARSALL, compilar e instalar, para 32bits **(Tempo Necessário: Mais de 30min)**
+- Executar ferramenta VCVARSALL, compilar e instalar, para 32bits **(Tempo Necessário: Mais de 45min)**
   - > `C:\"Program Files (x86)"\"Microsoft Visual Studio"\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat x86`
   - > `perl Configure VC-WIN32`
   - > `nmake`
