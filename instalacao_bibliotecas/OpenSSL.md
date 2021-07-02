@@ -10,9 +10,9 @@ O passo a passo completo pode ser visto abaixo:
   - Desenvolvimento para desktop com .NET (Opcional);
   - Desenvolvimento com a Plataforma Universal do Windows (Opcional);
   - **Desenvolvimento para Linux com C++**
-- Instalar (ou extrair) Perl
+- Instalar (ou extrair) Perl, e adiciona-lo ao PATH do sistema (`...\perl\bin\`);
   - Download: [Site Oficial](http://strawberryperl.com/)
-- Instalar (ou extrair) NASM
+- Instalar (ou extrair) NASM, e adiciona-lo ao PATH do sistema;
   - Download: [Site Oficial](https://www.nasm.us/)
 
 ## Compilação
