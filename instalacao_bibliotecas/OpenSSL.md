@@ -16,7 +16,7 @@ Para instalar com um local diferente de `C:\Program Files (x86)\OpenSSL` ou uma 
 - Instalar (ou extrair) NASM, e adiciona-lo ao PATH do sistema;
   - Download: [Site Oficial](https://www.nasm.us/)
 
-## Compilação
+## Compilação e Instalação
 - Abrir pasta do OpenSSL no Visual Studio 2019 (**COM PRIVILÉGIOS DE ADMINISTRADOR**)
   - Download: [OpenSSL - Repositório GitHub](https://github.com/openssl/openssl.git)
 - Abrir terminal do compilador:
@@ -29,3 +29,7 @@ Para instalar com um local diferente de `C:\Program Files (x86)\OpenSSL` ou uma 
   - > `nmake install`
   - **COMANDO COMPLETO**: `C:\"Program Files (x86)"\"Microsoft Visual Studio"\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat x86 && perl Configure VC-WIN32 && nmake && nmake test && nmake install`
   - Adicionar a OpenSSL no PATH do sistema.
+
+## Utilização
+
+Para usar a biblioteca, adicione a pasta de instalação do OpenSSL ao PATH do Projeto/Solução.
