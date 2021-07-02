@@ -27,6 +27,7 @@
 - **(?) {?} [ZEDWOOD]** [C++ md5 function](http://www.zedwood.com/article/cpp-md5-function) - Calculas Hash MD5 para strings
 - **(?) {?} [EXAMPLE-CODE]** [Md5 checksum of file](https://www.example-code.com/cpp/crypt2_md5_hash_file.asp) - Calcular Hash MD5 de arquivos
 - **(?) {?} [CRIPTOPP/GITHUB]** [Cripto++](https://www.cryptopp.com/index.html) | [Github](https://github.com/weidai11/cryptopp.git)
+- **(?) {?} [GITHUB]** [Openssl](https://github.com/openssl/openssl) - Criptografia e calculo de hashes.
 
 ## Programas úteis
 - [ILSPy](https://github.com/icsharpcode/ILSpy/releases) - Descompilador .NET
