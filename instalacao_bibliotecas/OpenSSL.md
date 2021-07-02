@@ -1,6 +1,8 @@
 # Compilando e Instalando OpenSSL
 
 OpenSSL é uma biblioteca completa e bastante avançada para criptografia e cálculo de cógigos Hash, para C++.
+O passo a passo completo pode ser visto abaixo:
+[Windows Notes](https://github.com/openssl/openssl/blob/master/NOTES-WINDOWS.md) e [Build and Install](https://github.com/openssl/openssl/blob/master/INSTALL.md)
 
 ## Pré-Requisitos
 - Visual Studio 2019 com:
@@ -18,7 +20,7 @@ OpenSSL é uma biblioteca completa e bastante avançada para criptografia e cál
   - Download: [OpenSSL - Repositório GitHub](https://github.com/openssl/openssl.git)
 - Abrir terminal do compilador:
   - Terminal -> Novo Terminal
-- Executar ferramenta VCVARSALL para 32bits **(Tempo: Compilação= 15min + Teste = 10min + Instalação = 15min)**
+- Executar ferramenta VCVARSALL, compilar e instalar, para 32bits **(Tempo Necessário: Mais de 30min)**
   - > `C:\"Program Files (x86)"\"Microsoft Visual Studio"\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat x86`
   - > `perl Configure VC-WIN32`
   - > `nmake`
