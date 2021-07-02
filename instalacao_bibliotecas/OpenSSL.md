@@ -18,7 +18,7 @@ OpenSSL é uma biblioteca completa e bastante avançada para criptografia e cál
   - Download: [OpenSSL - Repositório GitHub](https://github.com/openssl/openssl.git)
 - Abrir terminal do compilador:
   - Terminal -> Novo Terminal
-- Executar ferramenta VCVARSALL para 32bits **(Isso leva cerca de 15 minutos)**
+- Executar ferramenta VCVARSALL para 32bits **(Tempo: Compilação= 15min + Teste = 10min + Instalação = 15min)**
   - > C:\"Program Files (x86)"\"Microsoft Visual Studio"\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat x86
   - > perl Configure VC-WIN32
   - > nmake
