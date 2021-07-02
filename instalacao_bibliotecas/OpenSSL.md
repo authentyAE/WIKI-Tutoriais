@@ -19,8 +19,9 @@ OpenSSL é uma biblioteca completa e bastante avançada para criptografia e cál
 - Abrir terminal do compilador:
   - Terminal -> Novo Terminal
 - Executar ferramenta VCVARSALL para 32bits **(Tempo: Compilação= 15min + Teste = 10min + Instalação = 15min)**
-  - > C:\"Program Files (x86)"\"Microsoft Visual Studio"\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat x86
-  - > perl Configure VC-WIN32
-  - > nmake
-  - > nmake test
-  - > nmake install
+  - > `C:\"Program Files (x86)"\"Microsoft Visual Studio"\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat x86`
+  - > `perl Configure VC-WIN32`
+  - > `nmake`
+  - > `nmake test`
+  - > `nmake install`
+  - COMANDO COMPLETO: `C:\"Program Files (x86)"\"Microsoft Visual Studio"\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat x86 && perl Configure VC-WIN32 && nmake && nmake test && nmake install`
