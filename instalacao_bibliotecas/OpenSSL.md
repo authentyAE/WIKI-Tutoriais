@@ -16,7 +16,7 @@ O passo a passo completo pode ser visto abaixo:
   - Download: [Site Oficial](https://www.nasm.us/)
 
 ## Compilação
-- Abrir pasta do OpenSSL no Visual Studio Code
+- Abrir pasta do OpenSSL no Visual Studio 2019 (**COM PRIVILÉGIOS DE ADMINISTRADOR**)
   - Download: [OpenSSL - Repositório GitHub](https://github.com/openssl/openssl.git)
 - Abrir terminal do compilador:
   - Terminal -> Novo Terminal
