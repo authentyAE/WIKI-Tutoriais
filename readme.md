@@ -12,6 +12,7 @@
 - **(1)** [Especificando um ponto de entrada](https://docs.microsoft.com/pt-br/dotnet/framework/interop/specifying-an-entry-point)
 - **(?)** [Buils a DLL with Cygwin](https://cygwin.com/cygwin-ug-net/dll.html)
 - **(?)** [Install latest GCC on Windows (Cygwin)](https://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/)
+- **(5)** [PInvoke para função C que retorna char* ](https://stackoverflow.com/questions/370079/pinvoke-for-c-function-that-returns-char) - Troca de dados de String entre DLL C++ e C#
 
 # Videoaulas / Conteúdos úteis
 
