@@ -32,8 +32,12 @@ Para instalar com um local diferente de `C:\Program Files (x86)\OpenSSL` ou uma 
 
 ## Utilização
 
-- Para usar a biblioteca, adicione a pasta de instalação do OpenSSL ao PATH do Projeto.
+- Para usar a biblioteca, adicione a pasta de instalação do OpenSSL à lista de vinculação do pré-processador do Projeto:
   - Abrir propriedades do **projeto**.
   - Navegue até `Vinculador` -> `Entrada`-> `Dependências Adicionais` -> `Editar`
   - Adicione **o caminho completo** até o arquivo de cabeçalho `.lib` da OpenSSL. Exemplo: `C:\Program Files (x86)\OpenSSL\lib\libcrypto.lib`.
-  - Confirme e salve as alterações.
+- Adicione a biblioteca ao Path do projeto:
+  - Abrir propriedades do **projeto**.
+  - Navegue até `C/C++` -> `Geral`-> `Diretórios de Inclusão Adicionais` -> `Editar`
+  - Adicione **o caminho completo** até os arquivos de cabeçalho da biblioteca `.h` da OpenSSL. Exemplo: `C:\Program Files (x86)\OpenSSL\include\`.
+- Confirme e salve as alterações.
