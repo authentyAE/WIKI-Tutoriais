@@ -12,7 +12,8 @@
 - **(1)** [Especificando um ponto de entrada](https://docs.microsoft.com/pt-br/dotnet/framework/interop/specifying-an-entry-point)
 - **(?)** [Buils a DLL with Cygwin](https://cygwin.com/cygwin-ug-net/dll.html)
 - **(?)** [Install latest GCC on Windows (Cygwin)](https://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/)
-- **(5)** [PInvoke para função C que retorna char* ](https://stackoverflow.com/questions/370079/pinvoke-for-c-function-that-returns-char) - Troca de dados de String entre DLL C++ e C#
+- **(4)** [PInvoke para função C que retorna char* ](https://stackoverflow.com/questions/370079/pinvoke-for-c-function-that-returns-char) - Troca de dados de String entre DLL C++ e C#
+- **(5)** [main.cpp:(.text+0x5f): undefined reference to](https://stackoverflow.com/questions/21268483/main-cpp-text0x5f-undefined-reference-to) - Explicação sobre funcionamento do compilador g++, sequência de compilação e formas de utilização.
 
 # Videoaulas / Conteúdos úteis
 
