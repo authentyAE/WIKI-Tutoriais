@@ -14,6 +14,7 @@
 - **(?)** [Install latest GCC on Windows (Cygwin)](https://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/)
 - **(4)** [PInvoke para função C que retorna char* ](https://stackoverflow.com/questions/370079/pinvoke-for-c-function-that-returns-char) - Troca de dados de String entre DLL C++ e C#
 - **(5)** [main.cpp:(.text+0x5f): undefined reference to](https://stackoverflow.com/questions/21268483/main-cpp-text0x5f-undefined-reference-to) - Explicação sobre funcionamento do compilador g++, sequência de compilação e formas de utilização.
+- **(4)** [Como faço para incluir um caminho para bibliotecas em g ++](https://qastack.com.br/programming/6141147/how-do-i-include-a-path-to-libraries-in-g)
 
 # Videoaulas / Conteúdos úteis
 
