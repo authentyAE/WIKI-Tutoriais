@@ -31,6 +31,7 @@
 - **(?) {?} [EXAMPLE-CODE]** [Md5 checksum of file](https://www.example-code.com/cpp/crypt2_md5_hash_file.asp) - Calcular Hash MD5 de arquivos
 - **(?) {?} [CRIPTOPP/GITHUB]** [Cripto++](https://www.cryptopp.com/index.html) | [Github](https://github.com/weidai11/cryptopp.git)
 - **(?) {?} [GITHUB]** [Openssl](https://github.com/openssl/openssl) - Criptografia e calculo de hashes.
+- **(?) {?} [GITHUB]** [Zeroit UI](https://github.com/zeroitdev/Zeroit.Framework.Button.git) - UI Framework.
 
 ## Programas úteis
 - [ILSPy](https://github.com/icsharpcode/ILSpy/releases) - Descompilador .NET
